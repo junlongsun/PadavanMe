@@ -1,0 +1,9 @@
+{
+    "server": "serv-ro.ddns.info",
+    "server_port": 23143,
+    "password": "test.TEST",
+    "method": "aes-256-cfb",
+    "protocol": "origin",
+    "obfs": "plain",
+    "timeout": 120
+}
